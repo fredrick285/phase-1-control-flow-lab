@@ -1,5 +1,8 @@
 function scuberGreetingForFeet(){
-  // Write your code here!
+  let ride=(199)
+  if(ride>=400){
+    return "This one is on me!"
+  }
 }
 
 function ternaryCheckCity(){
